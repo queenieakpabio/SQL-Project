@@ -35,9 +35,9 @@ HAVING — used in Query 5 to filter skills with meaningful sample sizes (more t
 ORDER BY / LIMIT — for ranking and focusing results
 
 
-**Project Structure
+**Project Structure**
 
-SQL-Project**
+**SQL-Project**
 
 
 1_top_paying_jobs.sql          -- Top 10 highest-paying remote Data Analyst roles
